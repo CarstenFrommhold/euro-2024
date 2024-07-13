@@ -95,7 +95,7 @@ def convert_markdown_file_to_html(input_file, output_file):
 
 
 if __name__ == "__main__":
-    input_file = "README.md"
+    input_file = "tagebuch.md"
     output_file = "index.html"
 
     convert_markdown_file_to_html(input_file, output_file)
