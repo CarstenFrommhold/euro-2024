@@ -1,10 +1,10 @@
 ## EURO 2024 - Tagebuch
 
-### 13.06.2024
+### 13.06.2024 - Zeit, dass sich was dreht.
 
 Morgen geht's los. Fünf Städte sollen es sein in den kommenden elf Tagen. Die Bahn ist für eine Rundreise keine Option, mit dem Auto ist es verlässlicher. Erste Zwischenbilanz nach 2 Stunden Fahrt: 1 1/2 Stunden Stau. Läuft.
 
-### 14.06.2024 - Zeit, dass sich was dreht.
+### 14.06.2024 - Deutschland vs. Schottland. 
 
 Wie geht man denn jetzt ran an so eine Heim-EM? London liegt grade zwei Wochen zurück. Das ist noch nicht genug Zeit, die Spielzeit in Gänze verarbeitet zu haben. 
 Und zugegeben: Ich hätte alle Tickets & ein erfolgreiches Abschneiden der deutschen Mannschaft ohne Zögern für eine erfolgreiche zweite Halbzeit im Wembley geopfert.  
@@ -42,36 +42,38 @@ Schnittmenge: Die Gerstenkaltschale.
 
 ### 15.06.2024
 
-What the f***? Spanien ballert Kroatien mit 3:0 bereits zur Pause weg. Das war brettstark. Alle reden über England und Frankreich, aber wieso zum Teufel war Spanien bisher nicht auf dem Zettel?
+What the ...? Spanien ballert Kroatien mit 3:0 bereits zur Pause weg. Das war brettstark. Alle reden über England und Frankreich, aber wieso zum Teufel war Spanien bisher nicht auf dem Zettel?
 
 ### 16.06.2024
 
 Umzug ins Hotel, das zwei Tage nach dem Auftaktspiel jetzt wieder erschwinglich ist. 
 Auf der Suche nach Polen-Niederlande im TV die Erkenntnis, mir für eine Sache noch keine Taktik zurechtgelegt zu haben: Es gibt gar nicht alle Spiele im Free-TV. 
-
 Auswege: VPN & Streaming. Oder: Sportschau Radio. Fühlt sich an wie früher bei der WDR2-Konferenz.
 
-### 19.06.2024 Deutschland - Ungarn
+### 19.06.2024 - Deutschland vs. Ungarn
 
-TODO 1
+Spiel Zwei, jetzt gilt's. Auch in den starken Jahren 06-16 ist Deutschland oft im zweiten Gruppenspiel gestolpert (bevor es dann sechs Jahre am Stück gestolpert ist).
+Der Gegner ist ein anderes Kaliber und das ist auch spürbar. Trotz frühem Tor und optischer Überlegenheit in Ballbesitz & Pässen wird hier sichtbar, dass der Auftakt kein Maßstab für den weiteren Turnierverlauf bilden kann.
 
-Im Umfeld dieses Spiels sind viele Schotten unterwegs, auch im Stadion. 
+Die Stimmung ist nochmal deutlich besser als beim Auftakt, was auch an den Ticketpreisen liegen könnte, die für das erste Spiel exorbitant hoch angesetzt worden sind. Für die Gruppenphase starten diese immerhin bei 30 Euro, wenn auch mit nach oben offener Grenze.  
+
+Ein Wiedersehen gibt es mit den Schotten, von denen Einige im Umfeld des Spiels als auch im Stadion unterwegs sind, obwohl ihr Team am Abend in Köln gegen die Schweiz antritt. 
 
 <div style="display: flex; gap: 10px;">
     <img src="img/IMG_1583.jpeg" alt="Hochformat Bild 1" style="width: 50%; height: auto;">
     <img src="img/IMG_1600.jpeg" alt="Hochformat Bild 2" style="width: 50%; height: auto;">
 </div>
 
-### 21.06.2024 Slowakei - Ukraine
+### 21.06.2024 Slowakei vs. Ukraine
 
 Ein emotionales Nachbarschaftsduell in Düsseldorf. Nach klarer Auftaktniederlage liegt die Ukraine schon früh zurück und steht mit dem Rücken zur Wand. Nach dem Ausgleich drücken die Ukrainer auf den Sieg. Das Highlight des Spiels ist die fantastische Ballannahme & das Tor von Roman Yaremchuk vor heimischer Tribüne. Bei beiden Toren aber kommt die Freude aus allen Ecken des Stadions, das von den Blau-Gelben eindeutig dominiert ist.
 
-Die Düsseldorfer Altstadt ist ein Highlight in diesen Tagen. Mit der eigenen Spielstädte in der Stadt und Gelsenkirchen, Dortmund & Köln im 1h-Umkreis ist die Stadt quasi das Herz der EM. Das spiegelt sich auch in den vielen verschiedenen Trikots am Abend wieder.
+Die Düsseldorfer Altstadt ist ein Highlight in diesen Tagen. Mit der eigenen Spielstädte in der Stadt und Gelsenkirchen, Dortmund & Köln im 1h-Umkreis ist die Stadt quasi das Herz der EM. Das spiegelt sich auch in den vielen verschiedenen Trikots am Abend wieder. Darunter auch, na klar, wieder viele Schotten.
 
 <img src="img/IMG_1619.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
 
 
-### 22.06.2024 Belgien - Rumänien
+### 22.06.2024 Belgien vs. Rumänien
 
 Ein Tag, an dem einfach alles stimmt. Das Wetter, die Atmosphäre, die Stadt & das alles zusammen mit meinem Papa, der mich mit der Begeisterung für diesen Sport und das Drumherum überhaupt erst abgesteckt hat. Nach langer Zeit pilgern wir mal wieder über die Aachener Straße nach Müngersdorf. 
 
@@ -87,16 +89,18 @@ Fußballkultur, genauso wie sie sein soll.
 </div>
 
 
-### 23.06.2024 Deutschland - Schweiz
+### 23.06.2024 Deutschland vs. Schweiz
 
-TODO 2
+TODO2
+
+Im Parallelspiel besiegelt Ungarn das Last-Minute aus der Schotten, von denen sich einige auch wieder hier verlaufen haben. 
 
 <img src="img/IMG_1657.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
 
 
 ### 26.06.2024
 
-Spiel im Volkspark: Die Türkei schlägt Tschechien in der 90 + 4. Minute und zieht damit ins Achtelfinale ein. Hupkonzert bis in die Nacht. 
+Nach 2500km-Rundreise zurück in Hamburg. Die Türkei spielt im Volkspark & schlägt Tschechien in der 90 + 4. Minute, zieht damit ins Achtelfinale ein. Das Hupkonzert ist bis in die Nacht zu hören. 
 
 ### 29.06.2024
 
@@ -106,7 +110,7 @@ Bitterer Abend für Joachim Andersen: Erst wird das Tor zurückgepfiffen, was fr
 
 <img src="img/IMG_1686.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
 
-### 01.07.2024 Frankreich - Belgien
+### 01.07.2024 Frankreich vs. Belgien
 
 Die Bahn regelt. Geplante Ankunft in Düsseldorf: 09:20. Tatsächlich angekommen: 12:10. Bei 2h Verspätung gibt es 50% des Ticketpreises zurück: 6€, ein Getränk im Stadion. Yummi.
 
@@ -135,7 +139,7 @@ Kleiner Insidertipp: Der Fitnesssalat im Sportrestaurant im Neckarpark.
 Mit Sepp Maier gibt es auch noch einen prominenten Gast & Europameisterschats-Vibes am Tisch. 
 Ganz wegatmen lässt sich die Tatsache, dass da ein saustarker Gegner wartet, allerdings nicht. 
 
-Dann müssen wir leider auseinander gehen, der Schlossplatz ist zwei Stunden vor Abpfiff schon rappelvoll. Nach Anpfiff folgen 120 Minuten richtig guter Fußball, Drama & Fingernägelkauen. 
+Vor dem Stadion (2 Schotten gesichtet) müssen wir leider auseinander gehen, der Schlossplatz ist zwei Stunden vor Abpfiff schon rappelvoll. Nach Anpfiff folgen 120 Minuten richtig guter Fußball, Drama & Fingernägelkauen. 
 
 In der 119. zerplatzen alle Europameisterschafts-Träume. Nachdem Niklas Füllkrug den letzten Kopfball neben das Tor setzt: Stille. 
 
@@ -172,7 +176,7 @@ Außerdem endet die wilde Reise der Niederländer, die heute mit einer Mannschaf
 Der Snollebollekes Song geht seit ein paar Tagen nicht mehr aus dem Kopf. 
 Das Abgrasen nach Videos im Netz schafft dabei keine Abhilfe. 
 
-Flashback in eine Zeit, in der verwackelte Videos aus Stadien noch digitales Gold waren. 18 Jahre und damit fast so alt wie Youtube selbst das horto magiko Video der Panathinaikos Fans, dass ich mir als 15-Jähriger bestimmt 200 Mal angeschaut habe. 
+Flashback in eine Zeit, in der verwackelte Videos aus Stadien noch digitales Gold waren. 18 Jahre und damit fast so alt wie Youtube selbst das *horto magiko* Video der Panathinaikos Fans, dass ich mir als 15-Jähriger bestimmt 200 Mal angeschaut habe. 
 Der erste Kommentar trifft es genau:
 *Every couple of years I come back and watch this and every fucking time it gives me goosebumps.*
 
