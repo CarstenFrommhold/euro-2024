@@ -4,7 +4,7 @@
 
 Morgen geht's los. Fünf Städte sollen es sein in den kommenden elf Tagen. Die Bahn ist für eine Rundreise keine Option, mit dem Auto ist es verlässlicher. Erste Zwischenbilanz nach 2 Stunden Fahrt: 1 1/2 Stunden Stau. Läuft.
 
-Als Kartennostalgier wird es mit den digitalen Tickets ja sowieso schon immer schwerer, die Sammlung auszubauen. Bei der Euro gibt es allerdings gar keine Chance mehr dazu, da die Tickets vollständig als digitaler Zugang in der App hinterlegt sind und sich auch kein Screenshot erstellen lässt.
+Als Karten-Nostalgiker wird es mit den digitalen Tickets ja sowieso schon immer schwerer, die Sammlung auszubauen. Bei der Euro gibt es allerdings gar keine Chance mehr dazu, da die Tickets vollständig als digitaler Zugang in der App hinterlegt sind und sich auch kein Screenshot erstellen lässt.
 
 Irgendwas Greifbares muss aber sein. Ein Hoch auf ebay Kleinanzeigen: Ein 2006'er Trikot mit der Nr. 22, David Odonkor. 💛
 
@@ -100,7 +100,7 @@ Fußballkultur, genauso wie sie sein soll.
 Letztes Gruppenspiel. Nochmal ein besserer Gegner. Und ein nochmal engeres Spiel. Das ist nicht zwingend Deutschlands Schwäche sondern auch die Stärke der Schweiz. 
 Der Last-Minute Ausgleich durch Niklas Füllkrug sorgt für einen euphorischen Kick, katapultiert Deutschland allerdings auch in den auf dem Papier deutlich anspruchsvolleren Turnierbaum für die Gruppenphase.
 
-Im Parallelspiel besiegelt Ungarn das Last-Minute aus der Schotten, von denen sich einige auch wieder hier her verlaufen haben. 
+Im Parallelspiel besiegelt Ungarn das Last-Minute Aus der Schotten, von denen sich einige auch wieder hier her verlaufen haben. 
 
 <img src="img/IMG_1657.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
 
@@ -136,6 +136,10 @@ Natürlich steigt auch der Schottland-Zähler auf Sechs.
 
 1x Deutschland - Spanien für scheißteuer im Warenkorb. Ist nicht für mich gedacht, aber den Trip lasse ich mir trotzdem nicht entgehen.
 
+### 04.07.2024
+
+Lauf um die Alster. Mehrere hundert CR7 Groupies rund ums Fontenay, vor dem der portugiesische Bus steht. Soviel Personenkult in Hamburg war seit HW4 nicht mehr.
+
 ### 05.07.2024
 
 Sommer, Sonne, Heim-EM & Viertelfinale, geil. In Stuttgart liegt eine besondere Atmosphäre in der Luft, in der Innenstadt ist die Vorfreude schon am Mittag greifbar.
@@ -146,11 +150,11 @@ Kleiner Insidertipp: Der Fitnesssalat im Sportrestaurant im Neckarpark.
 Mit Sepp Maier gibt es auch noch einen prominenten Gast & Europameisterschats-Vibes am Tisch. 
 Ganz wegatmen lässt sich die Tatsache, dass da ein saustarker Gegner wartet, allerdings nicht. 
 
-Vor dem Stadion (2 Schotten gesichtet) müssen wir leider auseinander gehen, der Schlossplatz ist zwei Stunden vor Abpfiff schon rappelvoll. Nach Anpfiff folgen 120 Minuten richtig guter Fußball, Drama & Fingernägelkauen. 
+Vor dem Stadion (2 Schotten gesichtet) müssen wir leider auseinander gehen, der Schlossplatz ist zwei Stunden vor Spielgewinn schon rappelvoll. Nach Anpfiff folgen 120 Minuten richtig guter Fußball, Drama & Fingernägelkauen. 
 
 In der 119. zerplatzen alle Europameisterschafts-Träume. Nachdem Niklas Füllkrug den letzten Kopfball neben das Tor setzt: Stille. 
 
-Immerhin: Als Anhänger von Borussia Dortmund hat man in diesem Moment einen Vorsprung in der Übung darin mit gebrochenen Herzen umzugehen. 
+Immerhin: Als Anhänger von Borussia Dortmund hat man in diesem Moment einen Vorsprung in der Übung darin mit gebrochenem Herzen umzugehen. 
 
 Beim Reise-Vorbei-Abschluss-Bier kommt mit das Nick Hornby Zitat wieder in den Sinn:
 
