@@ -1,10 +1,16 @@
-## EURO 2024 - Tagebuch
+## EURO 2024 - Tagebuch ⚽✍️
 
 ### 13.06.2024 - Zeit, dass sich was dreht.
 
 Morgen geht's los. Fünf Städte sollen es sein in den kommenden elf Tagen. Die Bahn ist für eine Rundreise keine Option, mit dem Auto ist es verlässlicher. Erste Zwischenbilanz nach 2 Stunden Fahrt: 1 1/2 Stunden Stau. Läuft.
 
-### 14.06.2024 - Deutschland vs. Schottland. 
+Als Kartennostalgier wird es mit den digitalen Tickets ja sowieso schon immer schwerer, die Sammlung auszubauen. Bei der Euro gibt es allerdings gar keine Chance mehr dazu, da die Tickets vollständig als digitaler Zugang in der App hinterlegt sind und sich auch kein Screenshot erstellen lässt.
+
+Irgendwas Greifbares muss aber sein. Ein Hoch auf ebay Kleinanzeigen: Ein 2006'er Trikot mit der Nr. 22, David Odonkor. 💛
+
+<img src="img/IMG_1723.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
+
+### 14.06.2024 - Deutschland vs. Schottland. 󠁿
 
 Wie geht man denn jetzt ran an so eine Heim-EM? London liegt grade zwei Wochen zurück. Das ist noch nicht genug Zeit, die Spielzeit in Gänze verarbeitet zu haben. 
 Und zugegeben: Ich hätte alle Tickets & ein erfolgreiches Abschneiden der deutschen Mannschaft ohne Zögern für eine erfolgreiche zweite Halbzeit im Wembley geopfert.  
@@ -91,9 +97,10 @@ Fußballkultur, genauso wie sie sein soll.
 
 ### 23.06.2024 Deutschland vs. Schweiz
 
-TODO2
+Letztes Gruppenspiel. Nochmal ein besserer Gegner. Und ein nochmal engeres Spiel. Das ist nicht zwingend Deutschlands Schwäche sondern auch die Stärke der Schweiz. 
+Der Last-Minute Ausgleich durch Niklas Füllkrug sorgt für einen euphorischen Kick, katapultiert Deutschland allerdings auch in den auf dem Papier deutlich anspruchsvolleren Turnierbaum für die Gruppenphase.
 
-Im Parallelspiel besiegelt Ungarn das Last-Minute aus der Schotten, von denen sich einige auch wieder hier verlaufen haben. 
+Im Parallelspiel besiegelt Ungarn das Last-Minute aus der Schotten, von denen sich einige auch wieder hier her verlaufen haben. 
 
 <img src="img/IMG_1657.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
 
@@ -159,17 +166,19 @@ Kurze Nacht und früher Wecker für die Rückfahrt nach Hamburg.
 Coole Begegnung im Zug mit Steve: Snapback-Cap, Nasenring, Sneaker. Hätte ich auf maximal 40 geschätzt, ist aber 65 (!).
 Steckt mich sehr mit seiner Lebensfreude an. Und das, obwohl sich im Laufe des Gesprächs rausstellt, dass sein Vater in dieser Woche verstorben ist.  
 
-In Frankfurt steigt ein JGA zu. 10 Uhr morgens, Steve holt zwei Bier aus dem Boardbistro (*Macht nur Spaß, wenn man mitmacht. Weiß ich aus meiner Zeit in Köln.*)
+In Frankfurt steigt ein JGA zu. 10 Uhr morgens, Steve holt zwei Bier aus dem Boardbistro (*Macht nur Spaß, wenn man mitmacht. Weiß ich aus meiner Zeit in Köln*) und wir verbringen die Zugfahrt frei nach Dragoslav Stepanović: *Lebbe geht weider.*
 
-Frei nach Dragoslav Stepanović: *Lebbe geht weider.*
+### 06.07.2024
+
+England schlägt die Schweiz im Elfmeterschießen. Es wächst die bittere Erkenntnis, dass bei diesem Turnier nicht zwingend guter Fußball zum Erfolg führen muss. 
 
 ### 09.07.2024
 
-Gefühlt ist das Turnier mit dem Ausscheiden der deutschen Mannschaft auch zu Ende gegangen. Sich nochmal aufzuraffen kostet richtig Energie, lohnt aber: In einem guten Halbfinale brennt es vor allem in den ersten 30 Minuten. Die Gnadenlosigkeit, mit der Lamine Yamal das 2:1 in den Winkel knallt lässt aber für den Moment wenig Zweifel an der Frage zu, wer nächsten Sonntag den Pokal in den Berliner Nachthimmel stemmt.
+Gefühlt ist das Turnier mit dem Ausscheiden der deutschen Mannschaft zum ersten Mal zu Ende gegangen. Sich nochmal aufzuraffen kostet Energie, lohnt aber: In einem guten Halbfinale brennt es vor allem in den ersten 30 Minuten. Die Gnadenlosigkeit, mit der Lamine Yamal das 2:1 in den Winkel knallt lässt aber für den Moment wenig Zweifel an der Frage zu, wer nächsten Sonntag den Pokal in den Berliner Nachthimmel stemmt.
 
 ### 10.07.2024
 
-Das Raum-Zeit Kontinuum ist gekrümmt: England spielt Fußball. In der 90.Minute verstummt die Oranje-Partystimmung in Dortmund. 
+Die Krümmung des Raum-Zeit Kontinuums oder: England spielt Fußball. In der 90. Minute verstummt die Oranje-Partystimmung in Dortmund. 
 Das ist doppelt schade, da ESP - NIE wahrscheinlich das fußballerisch attraktivere Endspiel geworden wäre.
 Außerdem endet die wilde Reise der Niederländer, die heute mit einer Mannschaftsstärke von 80.000 in Dortmund aufgeschlagen sind. 
 
@@ -181,7 +190,7 @@ Der erste Kommentar trifft es genau:
 *Every couple of years I come back and watch this and every fucking time it gives me goosebumps.*
 
 Wer weiß, wie die Welt in 18 Jahren aussieht. 
-Aber bis dahin werde ich mir noch oft Holland-Videos der Euro 2024 gucken, soviel ist sicher. 
+Aber bis dahin werde ich mir noch oft Holland-Videos der Euro 2024 anschauen, soviel ist sicher. 
 
 ### 13.07.2024
 
