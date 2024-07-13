@@ -55,13 +55,20 @@ Auswege: VPN & Streaming. Oder: Sportschau Radio. Fühlt sich an wie früher bei
 
 TODO 1
 
-Spannende Beobachtung: Im Umfeld dieses Spiels sind wieder viele Schotten unterwegs, auch im Stadion. 
+Im Umfeld dieses Spiels sind viele Schotten unterwegs, auch im Stadion. 
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/IMG_1583.jpeg" alt="Hochformat Bild 1" style="width: 50%; height: auto;">
+    <img src="img/IMG_1600.jpeg" alt="Hochformat Bild 2" style="width: 50%; height: auto;">
+</div>
 
 ### 21.06.2024 Slowakei - Ukraine
 
-TODO 2
+Ein emotionales Nachbarschaftsduell in Düsseldorf. Nach klarer Auftaktniederlage liegt die Ukraine schon früh zurück und steht mit dem Rücken zur Wand. Nach dem Ausgleich drücken die Ukrainer auf den Sieg. Das Highlight des Spiels ist die fantastische Ballannahme & das Tor von Roman Yaremchuk vor heimischer Tribüne. Bei beiden Toren aber kommt die Freude aus allen Ecken des Stadions, das von den Blau-Gelben eindeutig dominiert ist.
 
 Die Düsseldorfer Altstadt ist ein Highlight in diesen Tagen. Mit der eigenen Spielstädte in der Stadt und Gelsenkirchen, Dortmund & Köln im 1h-Umkreis ist die Stadt quasi das Herz der EM. Das spiegelt sich auch in den vielen verschiedenen Trikots am Abend wieder.
+
+<img src="img/IMG_1619.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
 
 
 ### 22.06.2024 Belgien - Rumänien
@@ -74,22 +81,18 @@ Kurz vor Ende des Spiels dann schallt aber schon wieder ein euphorisch optimisti
 
 Fußballkultur, genauso wie sie sein soll. 
 
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="img/IMG_1632.jpeg" alt="Hochformat Bild" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-        <img src="img/IMG_1633.jpeg" alt="Querformat Bild 1" style="width: 100%; height: auto;">
-        <img src="img/IMG_1642.jpeg" alt="Querformat Bild 1" style="width: 100%; height: auto;">
-        <img src="img/IMG_1643.jpeg" alt="Querformat Bild 2" style="width: 100%; height: auto;">
-    </div>
+<div style="display: flex; gap: 10px;">
+    <img src="img/IMG_1631.jpeg" alt="Querformat Bild 1" style="width: 50%; height: auto;">
+    <img src="img/IMG_1643.jpeg" alt="Querformat Bild 2" style="width: 50%; height: auto;">
 </div>
+
 
 ### 23.06.2024 Deutschland - Schweiz
 
-TODO 3
+TODO 2
 
-Schotten. 
+<img src="img/IMG_1657.jpeg" alt="Einzelnes Bild" style="width: 100%; height: auto;">
+
 
 ### 26.06.2024
 
