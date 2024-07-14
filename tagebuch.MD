@@ -147,7 +147,7 @@ Sommer, Sonne, Heim-EM & Viertelfinale, geil. In Stuttgart liegt eine besondere 
 Papa & ich schlendern einmal über das Fanfest und machen uns dann schon auf gen Neckarstadion. 
 Kleiner Insidertipp: Der Fitnesssalat im Sportrestaurant im Neckarpark. 
 
-Mit Sepp Maier gibt es auch noch einen prominenten Gast & Europameisterschats-Vibes am Tisch. 
+Mit Sepp Maier gibt es auch noch einen prominenten Gast & Europameisterschafts-Vibes am Tisch. 
 Ganz wegatmen lässt sich die Tatsache, dass da ein saustarker Gegner wartet, allerdings nicht. 
 
 Vor dem Stadion (2 Schotten gesichtet) müssen wir leider auseinander gehen, der Schlossplatz ist zwei Stunden vor Spielgewinn schon rappelvoll. Nach Anpfiff folgen 120 Minuten richtig guter Fußball, Drama & Fingernägelkauen. 
@@ -156,7 +156,7 @@ In der 119. zerplatzen alle Europameisterschafts-Träume. Nachdem Niklas Füllkr
 
 Immerhin: Als Anhänger von Borussia Dortmund hat man in diesem Moment einen Vorsprung in der Übung darin mit gebrochenem Herzen umzugehen. 
 
-Beim Reise-Vorbei-Abschluss-Bier kommt mit das Nick Hornby Zitat wieder in den Sinn:
+Beim Reise-Vorbei-Abschluss-Bier kommt mir das Nick Hornby Zitat wieder in den Sinn:
 
 *Ich verliebte mich in den Fußball, wie ich mich später in Frauen verlieben sollte: plötzlich, unerklärlich, unkritisch und ohne einen Gedanken an den Schmerz und die Zerrissenheit zu verschwenden, die damit verbunden sein würden.*
 
