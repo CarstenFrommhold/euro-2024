@@ -205,3 +205,10 @@ Footballs coming home again.*
 
 Es würde alles ad absurdum führen und grade das macht es wieder so herrlich attraktiv.
 
+### 14.07.2024
+
+Im Laufe des Tages kippt das Sympathie-Pendel gen England. Einfach aus der Schaulust heraus, was in Berlin dann los wäre. Das Olympiastadion ist weiß gedeckt, Spanien hat zum Endspiel nicht mehr Anhänger mobilisiert als Borussia Mönchengladbach zu einem Auswärtsspiel bei Hertha. Das ist ungefähr so unwürdig wie die Almans, die Cucurella heute zum zweiten Mal in Serie ausgepfiffen haben. In meiner idealen Fußballwelt spielt allerdings auch Rot-Weiß-Essen europäisch, kein Platz für Fanromantiker an dieser Stelle.
+
+Endspiele waren in den letzten Jahren meistens eher schwache Spiele, so ist das auch heute. Am Ende setzt sich die fußballerisch mit Abstand beste Mannschaft dieses Turniers durch. 
+
+La Furia Roja, fortan Rekordsieger. Muy bien merecido. ¡Felicidades!
